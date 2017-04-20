@@ -125,9 +125,9 @@
 //			  frame++; 
 //			  ss << (frame);
 //			  str = ss.str();
-//			  imwrite("Disparity_IR_left_block"+str + ".png", ir_left);
+//			  imwrite("Disparity_IR_left"+str + ".png", ir_left);
 //			  cout << "ir left img "+str+" saved" << endl;
-//			  imwrite("Disparity_IR_right_block"+str + ".png", ir_right);
+//			  imwrite("Disparity_IR_right"+str + ".png", ir_right);
 //			  cout << "ir right img " + str + " saved" << endl;
 //			//  imwrite("Color" + str + ".png", color);
 //			//  cout << "color img "+ str+" saved" << endl;

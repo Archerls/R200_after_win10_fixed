@@ -1,8 +1,15 @@
-﻿  density.cpp
+﻿  gray2color.cpp
+  2IR_Camera_Calibration.cpp
 c:\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 c:\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\15754\documents\visual studio 2015\projects\r200_git\r200_git\2ir_camera_calibration.cpp(91): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\15754\documents\visual studio 2015\projects\r200_git\r200_git\2ir_camera_calibration.cpp(188): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\15754\documents\visual studio 2015\projects\r200_git\r200_git\2ir_camera_calibration.cpp(189): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\15754\documents\visual studio 2015\projects\r200_git\r200_git\2ir_camera_calibration.cpp(190): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\15754\documents\visual studio 2015\projects\r200_git\r200_git\2ir_camera_calibration.cpp(191): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
   R200_git.vcxproj -> C:\Users\15754\Documents\Visual Studio 2015\Projects\R200_git\x64\Debug\R200_git.exe
   R200_git.vcxproj -> C:\Users\15754\Documents\Visual Studio 2015\Projects\R200_git\x64\Debug\R200_git.pdb (Full PDB)

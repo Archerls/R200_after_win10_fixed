@@ -103,15 +103,15 @@
 //{
 //
 //
-//	Mat inputGray = imread("Disaparity_BM_SAD.png", 0);
-//
+//	Mat inputGray1 = imread("Disaparity_BM_SAD.png", 0);
+//	Mat inputGray2 = imread("Disaparity_SGBM.png", 0);
 ////	Mat scaledGray = scaleGray(inputGray);
-//	Mat pseudocolor = gray2pseudocolor(inputGray);
-//	Mat rainbow = gray2rainbow(inputGray);
-//
+//	//Mat pseudocolor = gray2pseudocolor(inputGray1);
+//	Mat rainbow1 = gray2rainbow(inputGray1);
+//	Mat rainbow2 = gray2rainbow(inputGray2);
 ////	imwrite("scaledGray2.png", scaledGray);
-//	imwrite("pseudocolor1.png", pseudocolor);
-//	imwrite("rainbow1.png", rainbow);
-//
+//	//imwrite("pseudocolor1.png", pseudocolor);
+//	imwrite("SADrainbow.png", rainbow1);
+//	imwrite("SGBMrainbow.png", rainbow2);
 //	return 0;
 //}

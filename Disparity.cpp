@@ -26,7 +26,7 @@
 //Mat view_gray_depth;
 //void on_mouse(int event, int x, int y, int flags, void *ustc);
 //void on_mouse2(int event, int x, int y, int flags, void *ustc);
-//int numDisparities = 6;
+//int numDisparities = 5;
 //int main()
 //{
 //	cout << "读取映射表中" << endl;
@@ -42,8 +42,8 @@
 //	fs["Q"] >> Q;
 //	cout << "读取映射完成" << endl;
 //	cout << "读取图片再映射中" << endl;
-//	Mat image_left = imread("Disparity_IR_left1.png");
-//	Mat image_right = imread("Disparity_IR_right1.png");
+//	Mat image_left = imread("Disparity_IR_left.png");
+//	Mat image_right = imread("Disparity_IR_right.png");
 //	Mat image_left_map;
 //	Mat image_right_map;
 //    remap(image_left, image_left_map, maplx, maply, INTER_LINEAR);
@@ -98,7 +98,7 @@
 //		40,       //UniquenessRatio
 //		100,   //SpeckleWindowSize
 //		32,    //SpeckleRange
-//		StereoSGBM::MODE_SGBM_3WAY);      //Mode
+//		StereoSGBM::MODE_HH);      //Mode
 //	/*sgbm->setBlockSize(21);
 //	sgbm->setP1(8 * cn*sgbm->getBlockSize*sgbm->getBlockSize);
 //	sgbm->setP2(32 * cn*sgbm->getBlockSize*sgbm->getBlockSize);
