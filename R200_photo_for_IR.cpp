@@ -142,9 +142,9 @@
 //			  frame++; 
 //			  ss << (frame);
 //			  str = ss.str();
-//			  imwrite("IR_left"+str + ".png", ir_left);
+//			  imwrite("IR_left_sec"+str + ".png", ir_left);
 //			  cout << "ir left img "+str+" saved" << endl;
-//			  imwrite("IR_right"+str + ".png", ir_right);
+//			  imwrite("IR_right_sec"+str + ".png", ir_right);
 //			  cout << "ir right img " + str + " saved" << endl;
 //			  imwrite("Color" + str + ".png", color);
 //			  cout << "color img "+ str+" saved" << endl;

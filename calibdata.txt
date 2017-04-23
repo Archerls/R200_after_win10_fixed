@@ -11,3 +11,11 @@ IR_left12.png
 IR_left13.png
 IR_left14.png
 IR_left16.png
+IR_left_sec1.png
+IR_left_sec2.png
+IR_left_sec3.png
+IR_left_sec7.png
+IR_left_sec9.png
+IR_left_sec13.png
+IR_left_sec14.png
+IR_left_sec15.png
