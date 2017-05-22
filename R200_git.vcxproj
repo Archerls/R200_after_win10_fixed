@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClCompile Include="2IR_Camera_Calibration.cpp" />
     <ClCompile Include="density.cpp" />
+    <ClCompile Include="evaluate.cpp" />
     <ClCompile Include="gray2color.cpp" />
     <ClCompile Include="R200_sample.cpp" />
     <ClCompile Include="RGB_Camera_Calibration.cpp" />
